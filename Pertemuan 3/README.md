@@ -151,16 +151,7 @@ void loop() {
   // Memberikan jeda 100 milidetik agar pembacaan tidak terlalu berkedip/cepat
 }
 
-## 4. Lengkapi table berikut berdasarkan pengamatan pada Serial Monitor 
-### Tabel Hasil Pengamatan Serial Monitor
-
-| ADC | Volt (V) | Persen (%) |
-| :---: | :---: | :---: |
-| 1 | 0.005 V | 0.10 % |
-| 21 | 0.10 V | 2.05 % |
-| 49 | 0.24 V | 4.79 % |
-| 74 | 0.36 V | 7.23 % |
-| 96 | 0.47 V | 9.38 % |
-
-
+4. Lengkapi table berikut berdasarkan pengamatan pada Serial Monitor 
+Tabel Hasil Pengamatan Serial Monitorssss
+![Gambar tabel no4](tabel no4.png)
 
